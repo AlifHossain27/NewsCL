@@ -23,7 +23,7 @@ $ cd NewsCL
 <p> <b>Install dependencies :</b> </p>
   
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
   
 <p> <b>Add API KEY :</b> </p>
